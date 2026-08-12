@@ -1,0 +1,6 @@
+{
+  "name": "Yellow Nitrolite Hub - ERC-7824 State Channels",
+  "description": "Next-generation Yellow Network ERC-7824 state channel clearing platform with off-chain micropayments, zero-gas DEX orderbook, live Clearnode analytics, state channel gaming, and protocol audit suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
